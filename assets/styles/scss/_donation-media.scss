@@ -1,0 +1,86 @@
+@media (max-width:$big-tablet) {
+    .donation__container {
+        max-width: 1024px;
+        min-height: 462px;
+    }
+
+    .donation__block {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        margin: 0;
+        margin-bottom: 100px;
+        margin-top: 80px;
+    }
+
+    .donation__block-text {
+        width: 380px;
+        min-height: 282px;
+    }
+
+    .donation__block-img {
+        margin: 0;
+        padding-right: 0;
+        padding-top: 60px;
+    }
+}
+
+// @media (max-width:$tablet) {
+//     .donation__container {
+//         max-width: 767px;
+//         min-height: 783px;
+//     }
+// }
+
+@media (max-width:380px) {
+    .donation__container {
+        min-width: 250px;
+        height: 100%;
+        // box-sizing: border-box;
+    }
+
+    .donation__block {
+        text-align: center;
+        margin: 42px auto;
+    }
+
+    .donation__block-text {
+        max-width: 300px;
+        min-height: 282px;
+        box-sizing: border-box;
+        margin: 0 20px;
+        text-align: center;
+    }
+
+    .donation__block-title {
+        font-size: 25px;
+        border: 1px solid red;
+    }
+
+    .donation__credit-card {
+        max-width: 281px;
+        font-size: 15px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .donation__credit-icon {
+        padding: 0 15px;
+
+
+        .donation__credit-txt {
+            font-size: 15px;
+            padding-right: 15px;
+        }
+    }
+
+    .donation__block-img {
+        max-width: 260px;
+        height: 100%;
+
+        .donation__img {
+            max-width: 100%;
+            height: auto;
+        }
+    }
+}
