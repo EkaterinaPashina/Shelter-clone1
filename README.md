@@ -67,4 +67,27 @@ Project was created by a team of students from IT Girl School as part of a train
 >Click the image below to view our website!
 [<img width="700" src="https://cdn.freelance.ru/img/portfolio/pics/00/3D/16/4003329.jpg?mt=de7039dd"/>](https://ekaterinapashina.github.io/Shelter/)
 <br>
+
+>Or use link https://ekaterinapashina.github.io/Shelter/
+
 <br>
+
+## How we built it
+
+We started by communicating with our group, agreeing all the details with the customer we divided the scope of work of layout of the page in Figma into small parts, which we distributed to the team.
+
+We made an adaptive page, used the SASS preprocessor, employed JS for slider block and worked with BEM.
+
+## Accomplishments that we're proud of
+
+We had an incredible experience working with the customer and the team. We pulled it off and are very proud to have created a beautiful, modern and functional adaptive website.
+
+## Useful specialties of our project
+
+<ul>
+  <li>Adaptive design for devices with a width of 250px to 5000px.</li>
+  <li>Interactive menu buttons</li>
+  <li>Animal cards slider</li>
+  <li>Modal window created on CSS technology without using JS</li>
+  <li>Usable window for entering the card number</li>
+</ul>
