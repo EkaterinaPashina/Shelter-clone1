@@ -1,18 +1,19 @@
 @import "variables";
 @import "mixins";
-// @import "_header_media";
 
+// @import "_header_media";
 .header {
-    box-sizing: border-box;
-    width: 100%;
-    min-height: 100%;
     background: $bggradient;
     background-size: $bgsize;
-    padding: 0 40px;
+}
+
+.container-header {
+    max-width: 1280px;
+    min-height: 100%;
 }
 
 .navbar {
-    padding-top: 40px;
+    padding: 30px 43px 0;
     @include center-between;
 }
 
@@ -80,12 +81,14 @@ label {
 .block-main {
     min-height: 728px;
     width: 100%;
+    box-sizing: border-box;
     display: grid;
-    grid-template-columns: minmax(150px, 462px) minmax(150px, 698px);
+    grid-template-columns: minmax(150px, 460px) minmax(150px, 698px);
     grid-template-rows: auto;
     grid-column-gap: 42px;
     justify-content: space-between;
-    margin-top: 90px;
+    margin-top: 83px;
+    padding: 0 40px;
 }
 
 .block-main__text {
@@ -97,13 +100,13 @@ label {
 .block-main__title {
     @include h1;
     color: $color-light-xl;
-    margin-top: 164px;
+    margin-top: 160px;
 }
 
 .block-main__subtitle {
     @include p;
     color: $color-dark-s;
-    padding-top: 10.72px;
+    padding-top: 11.72px;
     padding-bottom: 43px;
 }
 
@@ -112,9 +115,10 @@ label {
     width: 207px;
 }
 
+
 .block-main__img {
     grid-column: 2/3;
-    max-width: 728px;
+    max-width: 698px;
     height: 100%;
     display: flex;
     margin-right: 0;
@@ -124,7 +128,5 @@ label {
     .block-main__img_bigdog {
         max-width: 100%;
         height: auto;
-        padding-bottom: 0;
-        display: inline;
     }
 }
