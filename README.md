@@ -1,5 +1,64 @@
 # Shelter
-## Использованные технологии
-![Alt-описание изображения](https://camo.githubusercontent.com/9bceb931d755afc93679b5b7fbdffd68403e3c6bb78fe29d1de662cac4be014a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465) ![Alt-описание изображения](https://camo.githubusercontent.com/b2c7354770dd5741fd344e50fb6facec8001f67018df58b2f334cd027977cf62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d435353266c6f676f436f6c6f723d7768697465)  ![Alt-описание изображения](https://camo.githubusercontent.com/afd73fd9e5bad465abbffad440893f82032fea7428313c817a10874add6fedb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d68746d6c2d70696e6b3f7374796c653d666f722d7468652d6261646765)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p align="center">Tech Stack:</p>
+
+<table  align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#sssheina-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="48" height="48"/>
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="#sssheina-tech">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/>
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="#sssheina-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="48" height="48" />
+      </a>
+      <br>JS
+    </td>
+    <td align="center" width="96">
+      <a href="#sssheina-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48"/>
+      </a>
+      <br>SASS
+    </td>
+    <td align="center"  width="96">
+      <a href="#sssheina-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="48" height="48"/>
+      </a>
+      <br>VSC
+    </td>
+    <td align="center" width="96">
+      <a href="#sssheina-tech" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="48" height="48"/>
+      </a>
+      <br>GIT
+    </td>
+    <td align="center" width="96"> 
+      <a href="#sssheina-tech" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/>
+      </a>
+      <br>GITHUB
+    </td> 
+    <td align="center"  width="96">
+      <a href="#sssheina-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Bootstrap" **alt="Figma"  width="48" height="48"/>
+      </a>
+      <br>FIGMA
+    </td>
+  </tr>
+</table>
+<br>
+
+## About The Project
+
+The customised adaptive landing page for pets shelter placed in Boston. 
+
+Project was created by a team of students from IT Girl School as part of a training project.
+<br>
+<br>
