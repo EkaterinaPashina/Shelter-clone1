@@ -62,3 +62,9 @@ The customised adaptive landing page for pets shelter placed in Boston.
 Project was created by a team of students from IT Girl School as part of a training project.
 <br>
 <br>
+
+## View our Website:
+>Click the image below to view our website!
+[<img width="700" src="https://cdn.freelance.ru/img/portfolio/pics/00/3D/16/4003329.jpg?mt=de7039dd"/>](https://ekaterinapashina.github.io/Shelter/)
+<br>
+<br>
